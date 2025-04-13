@@ -2,7 +2,7 @@
 I Will maintain this repository for completing 40 days javascript challenge from atapas and complete all tasks and assignments were given by him
 
 ### Practice and Task Files
-1. - [ ] #### Task 1 : [Task_1.js](./Scripts/Task_1.js)
+- [x]   1.  #### Task 1 : [Task_1.js](./Scripts/Task_1.js)
 2. #### Task 2 : [Task_2.js](./Scripts/Task_2.js)
 3. #### Task 3 : [Task_3.js](./Scripts/Task_3.js)
 4. #### Task 4 : [Task_4.js](./Scripts/Task_4.js)
