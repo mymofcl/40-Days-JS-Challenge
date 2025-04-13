@@ -2,7 +2,7 @@
 I Will maintain this repository for completing 40 days javascript challenge from atapas and complete all tasks and assignments were given by him
 
 ### Practice and Task Files
-- [x] 
+- [x]  *** Day 01 *** 
 - [x] 
 - [x] 
 - [x] 
