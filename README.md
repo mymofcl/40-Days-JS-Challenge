@@ -7,7 +7,7 @@ I Will maintain this repository for completing 40 days javascript challenge from
 - [x]  [***Day 03***](./Day_03/)
 - [x]  [***Day 04***](./Day_04/)
 - [x]  [***Day 05***](./Day_05/)
-- [ ]  [***Day 06***](./Day_06/)
+- [x]  [***Day 06***](./Day_06/)
 - [ ]  [***Day 07***](./Day_07/)
 - [ ]  [***Day 08***](./Day_08/)
 - [ ]  [***Day 09***](./Day_09/)

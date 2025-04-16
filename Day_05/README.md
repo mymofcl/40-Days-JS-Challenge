@@ -6,4 +6,4 @@
 4. #### Task 3 : [Task_3.js](./Scripts/Task_3.js)
 5. #### Task 4 : [Task_4.js](./Scripts/Task_4.js)
 6. #### Task 5 : [Task_5.js](./Scripts/Task_5.js)
-7. #### Task 6 : [Task_6.js](./Scripts/Task_6.md)
+7. #### Task 6 : [Task_6.md](./Scripts/Task_6.md)
