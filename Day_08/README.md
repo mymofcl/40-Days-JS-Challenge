@@ -6,7 +6,7 @@
 ```js
 const message = "I can do it";
 
-fucntion sum(a, b) {
+function sum(a, b) {
     const result = a + b;
     return result;
 }
