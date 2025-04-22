@@ -32,4 +32,10 @@ getResult(8, 5);
 - Create a Readme file with all the above diagram and share on Discord.
 
 ### GEC and FEC with CP and EP flow
-![GEC & FEC]()
+![GEC & FEC](./Images/01.png)
+
+### Stack and Heap Flow
+![Stack & Heap Flow](./Images/02.png)
+
+### Stack Diagram
+![Stack Diagram](./Images/03.png)
