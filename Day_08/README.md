@@ -1,6 +1,7 @@
 ## Day 08 of 40 days of Javascript Challenge
 
 
+
 ###  Draw the Execution Context Diagram of the follwoing code and share as explained below:
 
 ```js
