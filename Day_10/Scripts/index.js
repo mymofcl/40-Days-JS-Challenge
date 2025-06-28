@@ -34,7 +34,37 @@ Target();
 // Var is always a function scope and let & const are always a block scope
 
 {
-    let num = 10;
+    var num = 10;
     console.log(num);
 }
 console.log(num);
+
+//Scope Chain
+
+let globalVariable = "Global Variable";
+function outer(){
+    let outerVar = "Outer Variable";
+    function inner(){
+        let innerVar = "Inner Variable;";
+        console.log(innerVar);
+        console.log(outerVar);
+        console.log(globalVariable);
+    }
+    inner();
+}
+outer();
+
+
+// Testing
+var count = 10;
+function outerFunc(){
+    var count = 20;
+    function innerFunc(){
+        var count = 30;
+        console.log(count);//30
+    }
+    innerFunc();
+    console.log(count);//20
+}
+outerFunc();
+console.log(count);//10
